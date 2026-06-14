@@ -60,4 +60,4 @@ Lets users filter and explore the data.
 - Data Modeling
 
 - ##Dashboard
-- ![Dashboard Preview ]()
+- ![Dashboard Preview ](https://github.com/ashutosh-panda09/Motorola-Sales-Dashboard/blob/main/Motorola%20Sales%20Dashboard%20Imgae.png).
